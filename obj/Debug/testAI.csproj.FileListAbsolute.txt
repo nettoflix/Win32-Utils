@@ -1,0 +1,10 @@
+L:\VisualStudioProjects\testAI\bin\Debug\testAI.exe.config
+L:\VisualStudioProjects\testAI\bin\Debug\testAI.exe
+L:\VisualStudioProjects\testAI\bin\Debug\testAI.pdb
+L:\VisualStudioProjects\testAI\obj\Debug\testAI.csproj.AssemblyReference.cache
+L:\VisualStudioProjects\testAI\obj\Debug\testAI.Properties.Resources.resources
+L:\VisualStudioProjects\testAI\obj\Debug\testAI.csproj.GenerateResource.cache
+L:\VisualStudioProjects\testAI\obj\Debug\testAI.csproj.CoreCompileInputs.cache
+L:\VisualStudioProjects\testAI\obj\Debug\testAI.exe
+L:\VisualStudioProjects\testAI\obj\Debug\testAI.pdb
+L:\VisualStudioProjects\testAI\obj\Debug\testAI.Form1.resources
